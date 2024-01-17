@@ -1,0 +1,8 @@
+{
+  "name": "openx-ui",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo hello openx-ui"
+  }
+}
